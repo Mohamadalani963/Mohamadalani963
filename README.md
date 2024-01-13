@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamad Alani</h1>
 <h3 align="center">Computer engineer passionate about software development. Proficient in PHP and JavaScript. Enthusiastic about System Design and Problem Solving. Always eager to learn and explore new technologies. Let's code something amazing together! 💻🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pixilart.com%2Fart%2Fcoding-dogo-sr2712ab0b35ecd&psig=AOvVaw1GCahzNWp8EDZZ-mivSKYY&ust=1705267108042000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjdv5yl24MDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadalani963&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadalani963" /> </p>
