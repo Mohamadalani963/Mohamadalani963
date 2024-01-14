@@ -1,7 +1,7 @@
 ![Header](./github-header-image(2).png)
 <h1 align="center">Hi 👋, I'm Mohamad Alani</h1>
 <h3 align="center">Computer engineer passionate about software development. Proficient in PHP and JavaScript. Enthusiastic about System Design and Problem Solving. Always eager to learn and explore new technologies. Let's code something amazing together! 💻🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img align="right" alt="Coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadalani963&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadalani963" /> </p>
